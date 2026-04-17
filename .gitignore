@@ -1,0 +1,17 @@
+.DS_Store
+
+# Built app bundle
+Tape.app/
+
+# Temporary icon build artifacts
+Tape.iconset/
+
+# SwiftPM / Xcode build output if added later
+.build/
+DerivedData/
+
+# User-specific Xcode state
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
