@@ -1,7 +1,11 @@
 # Tape
 
 Tape is a tiny macOS menu bar app for quickly switching your default audio output
-between your normal device and `Multi-Output Device`.
+between your normal device and `Multi-Output Device`. So you can quickly record anything that currently plays on your mac to Oceanaudio, Audacity or any other audio software. Happy ripping and sampling!
+
+## Prerequisites for running
+- install BlackHole Audio Loopback
+- check https://github.com/ExistentialAudio/BlackHole/wiki/Multi-Output-Device
 
 ## What it does
 
